@@ -1,16 +1,4 @@
-master: [![pipeline status](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/badges/master/pipeline.svg)](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/master)
-[![coverage report](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/badges/master/coverage.svg)](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/master)
-[![current version](https://img.shields.io/badge/version-5.0.0-blue.svg)](https://subluminal.tech/#downloads)
-[![javadoc coverage](https://img.shields.io/badge/JavaDoc-74.40%25-blue.svg)](https://subluminal.tech/docs)
-[![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/subluminalthegame/subluminal-server/stable.svg)](https://hub.docker.com/r/subluminalthegame/subluminal-server/tags)
-[![Twitter Follow](https://img.shields.io/twitter/follow/subluminalgame.svg?style=social&label=Follow)](https://twitter.com/subluminalgame)  
-
-dev: [![pipeline status](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/badges/dev/pipeline.svg)](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/dev)
-[![coverage report](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/badges/dev/coverage.svg)](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/dev)
-[![current version](https://img.shields.io/badge/version-5.0.0beta2-blue.svg)](https://subluminal.tech/#downloads)
-[![javadoc coverage](https://img.shields.io/badge/JavaDoc-74.40%25-blue.svg)](https://subluminal.tech/docs)
-[![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/subluminalthegame/subluminal-server/latest.svg)](https://hub.docker.com/r/subluminalthegame/subluminal-server/tags)
-[![Twitter Follow](https://img.shields.io/twitter/follow/subluminalgame.svg?style=social&label=Follow)](https://twitter.com/subluminalgame)  
+CI is for morons.
 
 **Table of Contents**  
 [1. Overview](#1-overview)  
@@ -22,9 +10,9 @@ dev: [![pipeline status](https://git.scicore.unibas.ch/CS108-FS18/Gruppe-11/badg
 [7. Web](#7-web)
 
 # [Subluminal](https://en.wiktionary.org/wiki/subluminal) /ˌsʌbˈl(j)uːmɪnl/ - The Game
-[![Logo](./assets/logo/subluminal_logo.png)](http://subluminal.tech) **by Bordeaux Ink.**
+[![Logo](./assets/logo/subluminal_logo.png)](http://subluminal.tech) **image by Bordeaux Ink.**
 
-> Once upon a time a clever programmer named Bob created in the basement of his mom's house 4 different AIs. Throughout his whole life Bob tried to get the AIs to work together, but sadly he never achieved his goal. After Bob passed away the world forgot about him and his work. But the AI's never forgot, ever single one of them evolve and adopted, with the goal to be the best AI in the whole universe ...  
+> Once upon a time a clever programmer named Rik created in the basement of his mom's house 4 different AIs. Throughout his whole life Rik tried to get the AIs to work together, but sadly he never achieved his goal. After Rik passed away the world forgot about him and his work. But the AIs never forgot, ever single one of them evolved and adapted, with the goal to be the best AI in the whole universe...  
 
 
 ## 1. Overview
