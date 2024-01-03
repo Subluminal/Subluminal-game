@@ -12,7 +12,7 @@ CI is for morons.
 # [Subluminal](https://en.wiktionary.org/wiki/subluminal) /ˌsʌbˈl(j)uːmɪnl/ - The Game
 [![Logo](./assets/logo/subluminal_logo.png)](http://subluminal.tech) **image by Bordeaux Ink.**
 
-> Once upon a time a clever programmer named Rik created in the basement of his mom's house 4 different AIs. Throughout his whole life Rik tried to get the AIs to work together, but sadly he never achieved his goal. After Rik passed away the world forgot about him and his work. But the AIs never forgot, ever single one of them evolved and adapted, with the goal to be the best AI in the whole universe...  
+> Once upon a time a clever programmer named Rik created in the basement of his mom's house 4 different AIs. Throughout his whole life Rik tried to get the AIs to work together, but sadly he never achieved his goal. After Rik passed away the world forgot about him and his work. But the AIs never forgot, every single one of them evolved and adapted, with the goal to be the best AI in the whole universe...  
 
 
 ## 1. Overview
@@ -91,9 +91,7 @@ These documents will only appear once the project has been built with gradle.
 3.1 More information on how to contribute can be found in [docs/quality_assurance.md](docs/quality_assurance.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 3. Trailer & Screenshots
-> 404 Video not found
-
-The screenshots can are located in [./assets/screenshots/](assets/screenshots/).  
+Screenshots are located in [./assets/screenshots/](assets/screenshots/).  
 
 
 ## 4. How to play
@@ -106,8 +104,8 @@ Subluminal features support for mods. Read the docs for more info ... [./docs/mo
 
 
 ## 6. License
-**GNU AGPLv3**. [https://choosealicense.com/licenses/agpl-3.0/]()
+**GNU AGPLv3**. [https://choosealicense.com/licenses/agpl-3.0/](https://choosealicense.com/licenses/agpl-3.0/)
 
 
 ## 7. Web
-[subluminal.tech](http://subluminal.tech)  /   [merch.subluminal.tech](http://merch.subluminal.tech)  /   [buy.subluminal.tech](http://buy.subluminal.tech)
+subluminal.tech lapsed after like a year, jeez.
